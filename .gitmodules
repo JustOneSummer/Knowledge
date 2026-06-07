@@ -1,6 +1,9 @@
 [submodule "WoWs-RS"]
 	path = WoWs-RS
 	url = https://github.com/wowsinfo/WoWs-RS.git
+[submodule "react-native-app"]
+	path = react-native-app
+	url = https://github.com/wowsinfo/react-native-app.git
 [submodule "WoWSFT-Kotlin"]
 	path = WoWSFT-Kotlin
 	url = https://github.com/wowsinfo/WoWSFT-Kotlin.git
