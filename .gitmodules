@@ -10,9 +10,6 @@
 [submodule "community-assistant"]
 	path = community-assistant
 	url = https://github.com/wowsinfo/community-assistant.git
-[submodule "flutter-app"]
-	path = flutter-app
-	url = https://github.com/wowsinfo/flutter-app.git
 [submodule "wows-toolkit"]
 	path = wows-toolkit
 	url = https://github.com/landaire/wows-toolkit.git
